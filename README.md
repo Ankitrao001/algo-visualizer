@@ -2,6 +2,8 @@
 
 This project provides a visualization of various algorithms, aiding in better understanding and analysis.
 
+
+
 ## Contents
 
 - Visualizes shortest path-finding for navigating through mazes or grids - [Path-Finder](https://srikanth-algo-visualizer.netlify.app/#/path-finding)
